@@ -1,0 +1,24 @@
+                    RetailX Enterprise ETL Pipeline
+
+CSV Files
+    │
+    ▼
+Extract
+    │
+    ▼
+Transform
+    │
+    ▼
+Validate
+    │
+    ▼
+Load
+    │
+    ▼
+PostgreSQL
+    │
+    ▼
+SQL Views
+    │
+    ▼
+Power BI Dashboard
